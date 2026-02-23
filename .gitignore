@@ -1,0 +1,6 @@
+cat > .gitignore << EOF
+window
+server
+*.o
+detections.log
+EOF
